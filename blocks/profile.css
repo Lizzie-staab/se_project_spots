@@ -8,7 +8,7 @@
   height: 190px;
   width: 190px;
   margin-right: 20px;
-  border-radius: 5%;
+  border-radius: 8px;
 }
 
 .profile__column {
@@ -32,6 +32,8 @@
 
 .profile__description {
   margin: 0;
+  font-size: 16px;
+  line-height: 16px;
   font-weight: 500;
   color: #212121b2;
   text-overflow: ellipsis;
@@ -44,12 +46,14 @@
 
 .profile__edit-btn {
   color: #212121;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
   opacity: 70%;
   margin-top: auto;
   padding: 0;
   background: none;
   border: none;
-  position: relative;
   display: flex;
   gap: 8px;
   transition: 0.5s;
@@ -61,20 +65,20 @@
 }
 
 .profile__add-btn {
-  margin-left: auto;
+  margin: 138px 0 0 660px;
   width: 149px;
   height: 52px;
-  position: relative;
-  bottom: -135px;
   border: none;
   border-radius: 8px;
   background-color: #212121;
-  color: #fff;
+  color: #fcf5e5;
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 8px;
   font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
   transition: 0.5s;
   cursor: pointer;
 }
