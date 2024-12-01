@@ -23,3 +23,6 @@ Spots is a website designed to teach responsive web design, and how to use Figma
 This Webpage is deployed to Github Pages
 
 - [Deployment Link](https://lizzie-staab.github.io/se_project_spots/)
+
+## Video Presentation
+- [Google drive link](https://drive.google.com/file/d/12ztgO-UWpiVIMH-Hg0tyI7HKy5tKX2_2/view?usp=drive_link)
